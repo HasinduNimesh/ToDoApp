@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- "C" letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,54C38,45.16 45.16,38 54,38C60.05,38 65.31,41.22 68,46.03L62,49.97C60.56,47.28 57.48,45.5 54,45.5C49.31,45.5 45.5,49.31 45.5,54C45.5,58.69 49.31,62.5 54,62.5C57.48,62.5 60.56,60.72 62,58.03L68,61.97C65.31,66.78 60.05,70 54,70C45.16,70 38,62.84 38,54Z" />
+
+    <!-- "T" letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,38L80,38L80,45.5L76,45.5L76,70L70,70L70,45.5L64,45.5L64,38Z" />
+
+    <!-- Yellow triangle accent -->
+    <path
+        android:fillColor="#FFEA00"
+        android:pathData="M54,24L60,34L48,34L54,24Z" />
+</vector>

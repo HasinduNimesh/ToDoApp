@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682938312559",
+    "project_id": "moderntodo-b00b1",
+    "storage_bucket": "moderntodo-b00b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682938312559:android:18f951bbcfb4c70abb6a9a",
+        "android_client_info": {
+          "package_name": "com.example.moderntodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTr7DRNGsxMUgw0ZByd1CgAnhxgMGkM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

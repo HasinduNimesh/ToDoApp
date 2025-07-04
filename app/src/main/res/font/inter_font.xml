@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="300"
+        app:fontProviderQuery="name=Inter&amp;weight=300"
+        app:fontProviderAuthority="@string/font_provider_authority"
+        app:fontProviderPackage="@string/font_provider_package" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:fontProviderQuery="name=Inter&amp;weight=400"
+        app:fontProviderAuthority="@string/font_provider_authority"
+        app:fontProviderPackage="@string/font_provider_package" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="500"
+        app:fontProviderQuery="name=Inter&amp;weight=500"
+        app:fontProviderAuthority="@string/font_provider_authority"
+        app:fontProviderPackage="@string/font_provider_package" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="600"
+        app:fontProviderQuery="name=Inter&amp;weight=600"
+        app:fontProviderAuthority="@string/font_provider_authority"
+        app:fontProviderPackage="@string/font_provider_package" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        app:fontProviderQuery="name=Inter&amp;weight=700"
+        app:fontProviderAuthority="@string/font_provider_authority"
+        app:fontProviderPackage="@string/font_provider_package" />
+</font-family>

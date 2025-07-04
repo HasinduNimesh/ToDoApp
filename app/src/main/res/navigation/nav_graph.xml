@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeScreen">
+
+    <fragment
+        android:id="@+id/homeScreen"
+        android:name="com.example.moderntodo.ui.screens.home.HomeScreen"
+        android:label="HomeScreen">
+        <action
+            android:id="@+id/to_taskDetailScreen"
+            app:destination="@id/taskDetailScreen" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/taskDetailScreen"
+        android:name="com.example.moderntodo.ui.screens.taskdetail.TaskDetailScreen"
+        android:label="TaskDetailScreen">
+        <argument
+            android:name="taskId"
+            app:argType="string" />
+    </fragment>
+</navigation>
